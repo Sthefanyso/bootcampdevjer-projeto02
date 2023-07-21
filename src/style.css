@@ -2,35 +2,28 @@ body{
     background-color: #260E2A;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    color:#fff;
 }
 
 h1{
     color: #FECD23;
 }
 
-p, h2{
-    color: #fff;
-}
-
 .image-group{
-    margin-top: 25px;
-    margin: 20px;
-    padding: 10px;
+    margin-top: 1.5rem;
+    margin: 1.2rem;
+    padding: 0.6rem;
 }
 
 input{
     width: 30%;
-    height: 30px;
-    border-radius: 6px;
+    height: 1.8rem;
+    border-radius: 0.3rem;
     border: none;
-    border-bottom: 10px;
-    padding: 5px;
+    border-bottom: 0.6rem;
+    padding: 0.3rem;
 }
 
-.baseboard{
-    color:#fff;
-    justify-content: end;
-}
 
 @media screen and (max-width:620px) {
   
