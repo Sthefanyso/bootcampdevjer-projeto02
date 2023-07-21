@@ -1,0 +1,33 @@
+body{
+    background-color: #260E2A;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: #FECD23;
+}
+
+p, h2{
+    color: #fff;
+}
+
+.image-group{
+    margin-top: 25px;
+    margin: 20px;
+    padding: 10px;
+}
+
+input{
+    width: 30%;
+    height: 30px;
+    border-radius: 6px;
+    border: none;
+    border-bottom: 10px;
+    padding: 5px;
+}
+
+.baseboard{
+    color:#fff;
+    justify-content: end;
+}
